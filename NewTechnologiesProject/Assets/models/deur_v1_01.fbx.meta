@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 4e283ca5e6d7fd442b2a5ad2e8866c15
+timeCreated: 1508071520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: deur
+    100002: Deur_main
+    100004: //RootNode
+    100006: deurknop
+    100008: deurknop1
+    100010: Deurpost
+    100012: hinge_doorside
+    100014: hinge_doorside 1
+    100016: hinge_rotationpoint_down_RotationPivot
+    100018: hinge_rotationpoint_up
+    100020: hinge_wallside_down
+    100022: Window_beam1
+    100024: Window_beam2
+    400000: deur
+    400002: Deur_main
+    400004: //RootNode
+    400006: deurknop
+    400008: deurknop1
+    400010: Deurpost
+    400012: hinge_doorside
+    400014: hinge_doorside 1
+    400016: hinge_rotationpoint_down_RotationPivot
+    400018: hinge_rotationpoint_up
+    400020: hinge_wallside_down
+    400022: Window_beam1
+    400024: Window_beam2
+    2300000: Deur_main
+    2300002: deurknop
+    2300004: deurknop1
+    2300006: Deurpost
+    2300008: hinge_doorside
+    2300010: hinge_doorside 1
+    2300012: hinge_rotationpoint_down_RotationPivot
+    2300014: hinge_rotationpoint_up
+    2300016: hinge_wallside_down
+    2300018: Window_beam1
+    2300020: Window_beam2
+    3300000: Deur_main
+    3300002: deurknop
+    3300004: deurknop1
+    3300006: Deurpost
+    3300008: hinge_doorside
+    3300010: hinge_doorside 1
+    3300012: hinge_rotationpoint_down_RotationPivot
+    3300014: hinge_rotationpoint_up
+    3300016: hinge_wallside_down
+    3300018: Window_beam1
+    3300020: Window_beam2
+    4300000: Deurpost
+    4300002: hinge_wallside_down
+    4300004: hinge_rotationpoint_down_RotationPivot
+    4300006: hinge_doorside
+    4300008: Deur_main
+    4300010: Window_beam1
+    4300012: Window_beam2
+    4300014: deurknop
+    4300016: deurknop1
+    4300018: hinge_rotationpoint_up
+    4300020: hinge_doorside
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
